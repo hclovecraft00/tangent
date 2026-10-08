@@ -20,6 +20,6 @@ The right person is often already building something without being asked to, and
 How you can help:
 1. **Refer someone.** If someone comes to mind, send them to https://tangent.org.sg or refer them directly to us.
 2. **Pass this on.** Forward this to people who might know someone who fits.
-3. **Drop by.** If you have industry experience, come by the space during a cohort. Teams will come to you if your experience is useful to them.
+3. **Drop by.** If you have industry experience, come by the space during a cohort. Teams will come to you if your experience is useful to them. To hear when cohorts are running, join our low-volume guides WhatsApp group: [WhatsApp group link].
 
 *If you want to know who's behind Tangent:* Tangent is run by Dr Vaughn Tan (executive director) and Harper Chew (programme associate). Vaughn is a Fellow at Singapore's Centre for Strategic Futures, ex-Google, and an honorary associate professor in strategy and entrepreneurship at UCL (https://vaughntan.org). Tangent is funded by private philanthropy through the Majurity Trust.

@@ -16,7 +16,7 @@ Tangent is a free, not-for-profit incubator in Singapore. It's sector-agnostic a
 - **Funding.** Our current funding covers three of the eight scheduled cohorts. Support goes directly to running the programme: team tooling budgets, tools and subscriptions, financial support for participants who need it, and cohort costs.
 - **Space.** Our temporary space runs to the end of October 2026. We need about 1,100 sq ft to run cohorts, or 2,000–2,500 sq ft for an alumni and founder community, at a discounted or sponsored rate. In return we bring programming: workshops, drop-in coworking, and sessions co-run with the host's own audience.
 - **Tools.** Donated or subsidised API credits, subscriptions or hardware, so teams can build without worrying about costs.
-- **Your time.** Drop by the space during a cohort. Teams working on a problem in your domain will come and talk to you.
+- **Your time.** Drop by the space during a cohort. Teams working on a problem in your domain will come and talk to you. Our low-volume guides WhatsApp group shares cohort dates and where we are: [WhatsApp group link].
 - **Institutional cohorts.** We can run paid Tangent-model cohorts for a polytechnic, university, foundation or company.
 
 There's more detail in our partners and donors page (https://tangent-sg.github.io/tangent/for-partners-and-donors/), on what we look for (https://tangent.org.sg/wishlist), in Tangent's Straits Times op-ed (https://vaughntan.org/techmittelstand), and in our incubation thesis (https://vaughntan.org/tangentlogic).
