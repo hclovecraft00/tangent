@@ -12,4 +12,6 @@ There's no formal agenda and nothing to prepare. Come by the space whenever suit
 
 If a conversation turns into something more, and you want to keep helping a team, you're welcome to. There's no obligation.
 
-If you're open to it, reply and I'll send you the cohort dates and location. More at https://tangent.org.sg/guide. And if you know someone who'd enjoy this, please pass it on.
+If you're open to it, join our guides WhatsApp group: [WhatsApp group link]. It's low volume. We use it to share cohort dates, where we are, and the occasional note when a team is looking for someone with particular experience. You can mute it or leave whenever you like.
+
+More at https://tangent.org.sg/guide. And if you know someone who'd enjoy this, please pass it on.
