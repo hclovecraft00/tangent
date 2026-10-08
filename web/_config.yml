@@ -1,0 +1,13 @@
+title: Tangent
+baseurl: "/tangent"
+url: "https://tangent-sg.github.io"
+permalink: pretty
+exclude:
+  - Gemfile
+  - Gemfile.lock
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
